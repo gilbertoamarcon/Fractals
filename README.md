@@ -1,4 +1,4 @@
-ParticleSytem
+Fractals
 =============
 
 This is a basic framework for rendering 3D fractal plots based on lines. 
