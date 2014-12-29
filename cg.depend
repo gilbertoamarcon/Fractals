@@ -1,0 +1,113 @@
+# depslib dependency file v1.0
+1409795460 source:c:\users\gilberto\dropbox\projetoscodeblocks\cg\cg\main.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<stdio.h>
+
+1409856584 source:c:\users\gilberto\dropbox\projetoscodeblocks\cg\cg_001\main.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<stdio.h>
+
+1410194266 source:c:\users\gilberto\dropbox\projetoscodeblocks\cg\sandbox\main.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<iostream>
+	<iomanip>
+	<cmath>
+
+1409950277 source:c:\users\gilberto antonio\dropbox\projetoscodeblocks\cg\sandbox\main.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<iostream>
+	<cmath>
+
+1410204117 source:c:\users\gilberto\dropbox\projetoscodeblocks\cg\lab2parte1\main.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<iostream>
+	<iomanip>
+	<cmath>
+
+1410210058 source:c:\users\gilberto\dropbox\projetoscodeblocks\cg\lab2atividade2\main.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<iostream>
+	<iomanip>
+	<cmath>
+
+1410218676 source:c:\users\gilberto\dropbox\projetoscodeblocks\cg\lab2atividade3\main.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<iostream>
+	<iomanip>
+	<cmath>
+
+1410466609 source:c:\users\gilberto\dropbox\projetoscodeblocks\cg\lab3atividade1\main.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<iostream>
+	<iomanip>
+	<cmath>
+
+1411005716 source:c:\users\gilberto\dropbox\projetoscodeblocks\cg\fractals01\main.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<iostream>
+	<iomanip>
+	<cmath>
+
+1411134585 source:c:\users\gilberto\dropbox\projetoscodeblocks\cg\fractals\branch.cpp
+	"Branch.h"
+
+1411134585 c:\users\gilberto\dropbox\projetoscodeblocks\cg\fractals\branch.h
+	<stdlib.h>
+
+1411134585 source:c:\users\gilberto\dropbox\projetoscodeblocks\cg\fractals\main.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<iostream>
+	<iomanip>
+	<cmath>
+	"Branch.h"
+
+1411041910 source:c:\users\gilberto antonio\dropbox\projetoscodeblocks\cg\fractals\branch.cpp
+	"Branch.h"
+
+1411041910 c:\users\gilberto antonio\dropbox\projetoscodeblocks\cg\fractals\branch.h
+	<stdlib.h>
+
+1411041909 source:c:\users\gilberto antonio\dropbox\projetoscodeblocks\cg\fractals\main.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<iostream>
+	<iomanip>
+	<cmath>
+	"Branch.h"
+
+1418174900 source:c:\users\gilberto antonio\downloads\fractals\branch.cpp
+	"Branch.h"
+
+1418174900 c:\users\gilberto antonio\downloads\fractals\branch.h
+	<stdlib.h>
+
+1418174902 source:c:\users\gilberto antonio\downloads\fractals\main.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<iostream>
+	<iomanip>
+	<cmath>
+	"Branch.h"
+
