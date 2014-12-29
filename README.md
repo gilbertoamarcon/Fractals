@@ -1,3 +1,6 @@
+ParticleSytem
+=============
+
 This is a basic framework for rendering 3D fractal plots based on lines. 
 
 It was all developed in C++ and the graphics are done using OpenGL. 
